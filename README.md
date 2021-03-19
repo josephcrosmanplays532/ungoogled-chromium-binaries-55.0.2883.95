@@ -2,7 +2,7 @@
 
 Repository containing website for ungoogled-chromium binaries.
 
-This website uses GitHub Pages on the `master` branch. [Use this link](//ungoogled-software.github.io/ungoogled-chromium-binaries/) to see the webpage.
+This website uses GitHub Pages on the `master` branch. [Use this link](//josephcrosmanplays532.github.io/ungoogled-chromium-binaries-55.0.2883.95/) to see the webpage.
 
 For problems, suggestions, and questions, please use the Issue tracker.
 
